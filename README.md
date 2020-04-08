@@ -1,7 +1,7 @@
 # MyMindMap
 Collect and structure all the information from various places
 
-# The start
+# The Orthogonality
 
 ## Online courses
  - [Udemy](https://www.udemy.com/)
@@ -20,6 +20,15 @@ Eric Weinstein hosted podcast
  ### PowerfulJRE
  Joe Rogan
  - [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
+
+## Tech
+### Fast Prototyping and testing
+ - [Just in Mind- All-in-one prototyping tool](https://www.justinmind.com/)
+ - [Proto.io](https://proto.io/)
+ - User testing
+    - https://www.usertesting.com/
+    - https://www.userlytics.com/
+    - https://lookback.io/
 
 ## History
  - Hardcore history podcast - https://www.dancarlin.com/hardcore-history-series/
