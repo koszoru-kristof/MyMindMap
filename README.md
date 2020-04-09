@@ -35,8 +35,8 @@ Eric Weinstein hosted podcast: [ownWiki](https://theportal.wiki/wiki/Main_Page) 
 
 ## Poetry
 ### Spoken word/ Slam poetry
- - Button poetry: [Web](https://buttonpoetry.com/products/books/), [Youtube channel](https://www.youtube.com/user/ButtonPoetry)
- - SlamPoetry Budapest: [Youtube channel](https://www.youtube.com/channel/UCg2q-EVjQML15iQNK3L4B0Q)
+ - Button poetry: [Web](https://buttonpoetry.com/products/books/), [Youtube](https://www.youtube.com/user/ButtonPoetry)
+ - SlamPoetry Budapest: [Youtube](https://www.youtube.com/channel/UCg2q-EVjQML15iQNK3L4B0Q)
 
 ## Professional tech job checks
  - https://www.teamblind.com/
