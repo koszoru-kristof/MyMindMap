@@ -10,16 +10,11 @@ Collect and structure all the information from various places
  
 ## Podcast
 ### The Portal
-Eric Weinstein hosted podcast
- - [ownWiki](https://theportal.wiki/wiki/Main_Page)
- - [Web](https://ericweinstein.org/)
- - [Youtube](https://www.youtube.com/user/nobani88)
+Eric Weinstein hosted podcast: [ownWiki](https://theportal.wiki/wiki/Main_Page) , [Web](https://ericweinstein.org/) , [Youtube](https://www.youtube.com/user/nobani88)
  ### Artifical Intelligence Podcast
- Lex Fridman hosted podcast
- - [Youtube](https://www.youtube.com/user/lexfridman/featured)
+ Lex Fridman hosted podcast: [Youtube](https://www.youtube.com/user/lexfridman/featured)
  ### PowerfulJRE
- Joe Rogan
- - [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
+ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
 
 ## Tech
 ### Fast Prototyping and testing
@@ -40,11 +35,8 @@ Eric Weinstein hosted podcast
 
 ## Poetry
 ### Spoken word/ Slam poetry
- - Button poetry 
-     - [Web](https://buttonpoetry.com/products/books/)
-     - [Youtube channel](https://www.youtube.com/user/ButtonPoetry)
- - SlamPoetry Budapest
-     - [Youtube channel](https://www.youtube.com/channel/UCg2q-EVjQML15iQNK3L4B0Q)
+ - Button poetry: [Web](https://buttonpoetry.com/products/books/), [Youtube channel](https://www.youtube.com/user/ButtonPoetry)
+ - SlamPoetry Budapest: [Youtube channel](https://www.youtube.com/channel/UCg2q-EVjQML15iQNK3L4B0Q)
 
 ## Professional tech job checks
  - https://www.teamblind.com/
