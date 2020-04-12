@@ -7,6 +7,7 @@ Collect and structure all the information from various places
  - [Udemy](https://www.udemy.com/)
  - [SkillShare](https://www.skillshare.com/search?query=an&enrollmentType=free)
  - [Coursera](https://www.coursera.org/)
+ - [edX](https://www.mooc.org/)
  
 ## Podcast
 ### The Portal
