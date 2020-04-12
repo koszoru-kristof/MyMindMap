@@ -1,7 +1,7 @@
 ---
 name: Kristof Koszoru
-position: Digital Researcher, Analog Explorer
-image_path: /images/clients/profile_img_sicily.jpg
+position: 'Digital Researcher, Analog Explorer'
+image_path: /images/profile_img_sicily.jpg
 twitter:
 ---
 
