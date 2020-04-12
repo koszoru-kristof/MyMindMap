@@ -1,5 +1,5 @@
 # MyMindMap
-Collect and structure all the information from various places
+Collect and structure all the information from various places.
 Website based on Urban jekyll template ([link](https://github.com/CloudCannon/urban-jekyll-template)) using [CloudCannon](https://cloudcannon.com/) and Github Pages.
 
 # The Orthogonality
