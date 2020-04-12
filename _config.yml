@@ -1,5 +1,10 @@
 ---
+
 title: My Mind Map
+
+# Short description of your site
+description: A virtual proof that I'm awesome
+
 timezone: UTC
 collections:
   posts:
