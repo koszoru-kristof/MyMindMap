@@ -13,18 +13,18 @@
 - title: Social
   links:
     - name: Facebook
-      link: https://facebook.com/cloudcannon/
+      link: 'https://www.facebook.com/koszoru.kristof'
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link: https://twitter.com/cloudcannon/
+      link: 'https://twitter.com/cloudcannon/'
       social_icon: Twitter
       new_window: true
     - name: Instagram
-      link: https://instagram.com/
+      link: 'https://instagram.com/'
       social_icon: Instagram
       new_window: true
     - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon
+      link: 'https://nz.linkedin.com/company/cloud-cannon'
       social_icon: LinkedIn
       new_window: true
