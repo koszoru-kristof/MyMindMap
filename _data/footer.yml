@@ -16,15 +16,7 @@
       link: 'https://www.facebook.com/koszoru.kristof'
       social_icon: Facebook
       new_window: true
-    - name: Twitter
-      link: 'https://twitter.com/cloudcannon/'
-      social_icon: Twitter
-      new_window: true
-    - name: Instagram
-      link: 'https://instagram.com/'
-      social_icon: Instagram
-      new_window: true
     - name: LinkedIn
-      link: 'https://nz.linkedin.com/company/cloud-cannon'
+      link: 'https://www.linkedin.com/in/kristof-koszoru-755b38155'
       social_icon: LinkedIn
       new_window: true
