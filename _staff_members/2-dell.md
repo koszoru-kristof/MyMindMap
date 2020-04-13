@@ -1,6 +1,6 @@
 ---
 name: Dell XPS 13
-position: Developer
+position: The Obedient Developer
 image_path: /images/dell-xps-13.jpg
 twitter:
 ---
