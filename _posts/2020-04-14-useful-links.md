@@ -64,7 +64,7 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
 
  
 
- <> (Youtube video test:  {% include youtube.html youtube_id="kaHeoM055Kk" %})
+[//]:  <> (Youtube video test:  {% include youtube.html youtube_id="kaHeoM055Kk" %})
 
 
 
