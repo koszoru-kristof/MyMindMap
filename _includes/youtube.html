@@ -1,7 +1,3 @@
-<a target="_blank" href="https://twitter.com/{{ include.member.twitter }}">
-	<div class="square-image"><img src="{% include relative-src.html src=include.member.image_path %}" alt="{{ include.member.name }}"/></div>
-	<div class="details">
-		<div class="name">{{ include.member.name }}</div>
-		<div class="position">{{ include.member.position }}</div>
-	</div>
-</a>
+<div class="spacing youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.youtube_id }}" frameborder="0" allowfullscreen></iframe>
+</div>
