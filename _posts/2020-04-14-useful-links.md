@@ -62,9 +62,5 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
  - [typingclub](https://www.typingclub.com/sportal/)
 
 
- 
-
-[//]:  <> (Youtube video test:  {% include youtube.html youtube_id="kaHeoM055Kk" %})
-
 
 
