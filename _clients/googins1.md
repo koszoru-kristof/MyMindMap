@@ -5,4 +5,4 @@ external_url:
 image_path: /uploads/goggins3.png
 ---
 
-Quote from David Goggins.
+![](/uploads/goggins3.png){: width="1920" height="1080"}Quote from David Goggins.
