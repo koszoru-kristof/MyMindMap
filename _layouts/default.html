@@ -5,10 +5,6 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
-		{% if page.keywords %}
-        <meta property="keywords" content="{{ page.keywords | join: ', ' | escape }}">
-        {% endif %}
-
 		{% seo %}
 		{% feed_meta %}
 
