@@ -63,9 +63,9 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
  
 
 
-
+<!--
 <iframe width="640" height="360" src="https://miro.com/app/embed/o9J_ktvmwLI=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
+-->
 
 
 
