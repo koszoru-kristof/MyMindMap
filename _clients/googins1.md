@@ -5,4 +5,4 @@ external_url:
 image_path: /uploads/goggins3.png
 ---
 
-Need to be written more in detail.
+Quote from David Goggins.
