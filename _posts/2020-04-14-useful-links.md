@@ -26,7 +26,7 @@ Lex Fridman hosted podcast: [Youtube](https://www.youtube.com/user/lexfridman/fe
 ### PowerfulJRE
 Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
 
-## Tech
+## Tech tools
 ### Fast Prototyping and testing
  - [Just in Mind- All-in-one prototyping tool](https://www.justinmind.com/)
  - [Proto.io](https://proto.io/)
@@ -34,6 +34,10 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
     - [UserTesting](https://www.usertesting.com/)
     - [UserLytics](https://www.userlytics.com/)
     - [Lookback.io](https://lookback.io/)
+    
+### Color palette generator
+ - [Flat UI Colors](https://flatuicolors.com/)
+ - [Adobe Color](https://color.adobe.com/create)
 
 ## History
  - [Hardcore history podcast](https://www.dancarlin.com/hardcore-history-series/)
