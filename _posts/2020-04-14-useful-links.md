@@ -60,7 +60,7 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
  - [AngelList](https://angel.co/)
  
 ## Fun
- - [Augur] - Bet online(https://www.augur.net/)
+ - [Augur](https://www.augur.net/) - Bet online
  - [Visualising quaternions](https://eater.net/quaternions)
 
 ## Typing
