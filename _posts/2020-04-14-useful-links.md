@@ -55,9 +55,12 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
 ## Professional tech job checks
  - [Teamblind](https://www.teamblind.com/)
  - [Glassdoor](https://www.glassdoor.com/index.htm?countryRedirect=true)
+ - [Tyba](https://tyba.com/)
+ - [Crunchbase](https://www.crunchbase.com/)
+ - [AngelList](https://angel.co/)
  
 ## Fun
- - Bet online - [Augur](https://www.augur.net/)
+ - [Augur] - Bet online(https://www.augur.net/)
  - [Visualising quaternions](https://eater.net/quaternions)
 
 ## Typing
