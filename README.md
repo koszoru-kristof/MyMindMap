@@ -9,6 +9,7 @@ Website based on Urban jekyll template ([link](https://github.com/CloudCannon/ur
  - [SkillShare](https://www.skillshare.com/search?query=an&enrollmentType=free)
  - [Coursera](https://www.coursera.org/)
  - [edX](https://www.mooc.org/)
+ - [Udacity](https://www.udacity.com/)
  
 ## Podcast
 ### The Portal
