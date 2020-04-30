@@ -68,7 +68,8 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
  - [livechat-typing speed test](https://www.livechat.com/typing-speed-test/#/)
  - [typingclub](https://www.typingclub.com/sportal/)
  
-
+## Interior design
+- [Kelly Wearstler website]( https://www.kellywearstler.com/home)
 
 <!--
 <iframe width="640" height="360" src="https://miro.com/app/embed/o9J_ktvmwLI=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>
