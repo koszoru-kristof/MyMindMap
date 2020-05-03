@@ -10,4 +10,4 @@ LightBit app developed for a project controlling a smart lamp using ECG data.
 
 ## Rendered images
 
-![](/images/clients/Flying_iPhoneX_Mockups_black.png){: width="3000" height="2250"}
+![LightBit flying iphone image](/images/clients/Flying_iPhoneX_Mockups_black.png){: width="3000" height="2250"}
