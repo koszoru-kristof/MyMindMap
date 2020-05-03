@@ -38,6 +38,7 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
 ### Color palette generator
  - [Flat UI Colors](https://flatuicolors.com/)
  - [Adobe Color](https://color.adobe.com/create)
+ - [Colorsinspo](https://colorsinspo.com/)
 
 ## History
  - [Hardcore history podcast](https://www.dancarlin.com/hardcore-history-series/)
