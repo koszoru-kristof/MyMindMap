@@ -41,6 +41,11 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
  - [Flat UI Colors](https://flatuicolors.com/)
  - [Adobe Color](https://color.adobe.com/create)
  - [Colorsinspo](https://colorsinspo.com/)
+ 
+### Stock image resources
+ - [Pixabay](https://pixabay.com/)
+ - [Pexels](https://www.pexels.com/)
+ - [Freepik](https://www.freepik.com/)
 
 ## History
  - [Hardcore history podcast](https://www.dancarlin.com/hardcore-history-series/)
