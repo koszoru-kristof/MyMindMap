@@ -47,6 +47,9 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
  - [Pexels](https://www.pexels.com/)
  - [Freepik](https://www.freepik.com/)
  - [Unsplash](https://unsplash.com/)
+ 
+ ### Presentation
+ - [Beauiful.ai](https://www.beautiful.ai/)
 
 ## History
  - [Hardcore history podcast](https://www.dancarlin.com/hardcore-history-series/)
