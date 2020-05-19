@@ -48,7 +48,7 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
  - [Freepik](https://www.freepik.com/)
  - [Unsplash](https://unsplash.com/)
  
- ### Presentation
+### Presentation
  - [Beauiful.ai](https://www.beautiful.ai/)
 
 ## History
