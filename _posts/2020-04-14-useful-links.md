@@ -36,6 +36,7 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
     - [Lookback.io](https://lookback.io/)
  - [Screenspace](https://www.screenspace.io/): studio-quality product video generation
  - [Material.io](https://material.io/resources/icons/?style=baseline): google icon set
+ - [Placeit](https://placeit.net/c/mockups): Mockup generator site
     
 ### Color palette generator
  - [Flat UI Colors](https://flatuicolors.com/)
