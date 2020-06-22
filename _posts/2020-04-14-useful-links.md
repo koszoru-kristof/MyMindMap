@@ -51,6 +51,9 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
  
 ### Presentation
  - [Beauiful.ai](https://www.beautiful.ai/)
+ 
+### Inspiration
+ - [DeepShape](https://deepyellow.net/)
 
 ## History
  - [Hardcore history podcast](https://www.dancarlin.com/hardcore-history-series/)
