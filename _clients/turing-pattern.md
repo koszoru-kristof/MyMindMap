@@ -8,6 +8,9 @@ image: /images/clients/turing/color_turing_little.jpg
 
 # Turing pattern
 
-Based on a youtube [video](https://www.youtube.com/watch?v=NZNl6N7PnF4&t=0s)
+The random pattern were made by photoshop and were inspired by a YouTube [video](https://www.youtube.com/watch?v=NZNl6N7PnF4&t=0s)
 
 ## More patterns and rendered images
+
+![pattern1](/MyMindMap/images/clients/turing/wb_pattern1.png){: width="960" height="540"}
+![pattern2](/MyMindMap/images/clients/turing/wb_pattern2.png){: width="960" height="540"}
