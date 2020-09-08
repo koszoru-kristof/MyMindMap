@@ -25,6 +25,8 @@ Eric Weinstein hosted podcast: [ownWiki](https://theportal.wiki/wiki/Main_Page) 
 Lex Fridman hosted podcast: [Youtube](https://www.youtube.com/user/lexfridman/featured)
 ### PowerfulJRE
 Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
+### Az élet, meg minden
+Hungarian long-format discussion, interviews [Web](https://azeletmegminden.hu/category/podcastok/)
 
 ## Design tools
 ### Fast Prototyping and testing
@@ -78,6 +80,8 @@ Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
 ## Fun
  - [Augur](https://www.augur.net/) - Bet online
  - [Visualising quaternions](https://eater.net/quaternions)
+ - [Finnish nightmares](http://finnishnightmares.blogspot.com/)
+ - [xkcd](https://xkcd.com/)
 
 ## Typing
  - [10fastfingers](10fastfingers.com)
