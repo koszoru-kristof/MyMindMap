@@ -82,6 +82,7 @@ Hungarian long-format discussion, interviews [Web](https://azeletmegminden.hu/ca
  - [Visualising quaternions](https://eater.net/quaternions)
  - [Finnish nightmares](http://finnishnightmares.blogspot.com/)
  - [xkcd](https://xkcd.com/)
+ - [PhD Comics](http://phdcomics.com/)
 
 ## Typing
  - [10fastfingers](10fastfingers.com)
