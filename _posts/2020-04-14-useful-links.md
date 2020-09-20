@@ -97,7 +97,8 @@ Hungarian long-format discussion, interviews [Web](https://azeletmegminden.hu/ca
 
 ## Academic writing
  - [Academic Integrity at MIT, A Handbook for Students](http://integrity.mit.edu/)
- - [ACADEMIC WRITING - Aalto](http://sana.aalto.fi/awe/index.html)
+ - [Academic writing - Aalto](http://sana.aalto.fi/awe/index.html)
+ - [Writing Clinic links - Aalto](https://into.aalto.fi/display/enopinnot/Recommended+Links)
 
 
 <!--
