@@ -16,17 +16,24 @@ Website based on Urban jekyll template ([link](https://github.com/CloudCannon/ur
  - [Udemy](https://www.udemy.com/)
  - [SkillShare](https://www.skillshare.com/search?query=an&enrollmentType=free)
  - [Coursera](https://www.coursera.org/)
- - [edX](https://www.mooc.org/)
+ - [edX](https://www.mooc.org/) 
+ - [MOOC.fi](https://www.mooc.fi/en#courses)
+ - [DevOps with Docker](https://devopswithdocker.com/)
+ - [DevOps with Kubernetes](https://devopswithkubernetes.com/)
+ 
  
 ## Podcast
 ### The Portal
-Eric Weinstein hosted podcast: [ownWiki](https://theportal.wiki/wiki/Main_Page) , [Web](https://ericweinstein.org/) , [Youtube](https://www.youtube.com/user/nobani88)
+Hosted by Eric Weinstein: [ownWiki](https://theportal.wiki/wiki/Main_Page) , [Web](https://ericweinstein.org/) , [Youtube](https://www.youtube.com/user/nobani88)
 ### Artifical Intelligence Podcast
-Lex Fridman hosted podcast: [Youtube](https://www.youtube.com/user/lexfridman/featured)
+Hosted by Lex Fridman: [Youtube](https://www.youtube.com/user/lexfridman/featured)
 ### PowerfulJRE
-Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
+Hosted by Joe Rogan: [Youtube](https://www.youtube.com/user/PowerfulJRE/videos)
 ### Az élet, meg minden
-Hungarian long-format discussion, interviews [Web](https://azeletmegminden.hu/category/podcastok/)
+Hungarian long-format discussion, interviews: [Web](https://azeletmegminden.hu/category/podcastok/)
+### nos autem predicamus
+Hosted by Péter Koszoru: [Castbox](https://castbox.fm/channel/nos-autem-predicamus-id3041820?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=nos%20autem%20predicamus-CastBox_FM)
+
 
 ## Design tools
 ### Fast Prototyping and testing
